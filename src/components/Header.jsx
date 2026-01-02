@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="flex justify-between items-center px-2.5 py-5 bg-black">
+    <header className="flex justify-between items-center px-2.5 py-5 bg-black text-white">
       <h2>OZ코딩스쿨</h2>
       <ul className="flex justify-center items-center gap-5 [&>li]:text-[13px]">
         <li>로그인</li>
